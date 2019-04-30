@@ -1,2 +1,3 @@
-# teacher-s-evaluation-system
-It is my college project. It is an online software for teaher's evaluation through a thorough process.
+# teacher's evaluation system
+It is my college project.
+in this project we will discuss a case study as exixting system and then we propose our modified system.

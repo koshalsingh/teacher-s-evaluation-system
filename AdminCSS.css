@@ -1,0 +1,12 @@
+.AdminBtn{
+    width: 100px;
+    text-decoration: none;
+}
+.asmenu{
+    margin-top: 20px;
+}
+.borders{
+    border-width: 3px; 
+    border-style: solid; 
+    border-image: linear-gradient(coral, yellow, green, white, blue,pink, skyblue) 1 100%; 
+}

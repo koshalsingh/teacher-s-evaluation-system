@@ -1,0 +1,45 @@
+.container-fluid{
+    background-image: url("img3.jpg");
+}
+.bottomBorder{
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-image: linear-gradient(to right, black, rgba(0, 0, 0, 0)) 1 100%;
+}
+ 
+.box{
+    margin-top: 20%;
+    margin-left: 50%;
+    width: 80%;
+    height: 65%;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    background:rgba(0,0,0,0.1);
+    box-shadow: 0 10px 20px rgba(0,0,0,.4);
+    border-radius: 10px;
+    transition: .5s;
+}
+.user{
+    margin-top: 1%;
+    margin-left: 2%;
+    height: 100%;    
+    box-sizing: border-box;
+    background:rgba(0,0,0,0.1);
+    box-shadow: 0 10px 20px rgba(0,0,0,.4);
+    border-radius: 10px;
+    transition: .5s;
+    color: darkblue;
+}
+.imag{
+    width: 150px ;
+    height:150px; 
+    border: 1px solid black;
+}
+.questionbox{
+    border: 2px solid red;
+    margin: 4px 4px 2px 4px;
+    padding: 2px;    
+}
+.question{
+    
+}

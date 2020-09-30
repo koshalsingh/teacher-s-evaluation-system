@@ -14,7 +14,7 @@
     <body>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-xs-12" style="border-bottom: 2px solid white;">
+                <div class="col-xs-12" style="border-bottom: 2px solid white;"> //color code
                     <?php
                     include_once 'header.php';
                     ?>
